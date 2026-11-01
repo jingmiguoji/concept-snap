@@ -34,13 +34,13 @@ concept-snap 的前提是：**概念几乎都是某个具体麻烦的补丁**。
 **用户级（推荐，所有项目可用）**
 
 ```powershell
-git clone https://github.com/<your-name>/concept-snap.git "$HOME/.dsh/skills/concept-snap"
+git clone https://github.com/jingmiguoji/concept-snap.git "$HOME/.dsh/skills/concept-snap"
 ```
 
 macOS / Linux：
 
 ```bash
-git clone https://github.com/<your-name>/concept-snap.git ~/.dsh/skills/concept-snap
+git clone https://github.com/jingmiguoji/concept-snap.git ~/.dsh/skills/concept-snap
 ```
 
 **没有 git**：下载 ZIP → 解压 → 把目录重命名为 `concept-snap` → 放进 `~/.dsh/skills/`。
